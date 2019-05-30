@@ -3,7 +3,7 @@ import React from 'react';
 class AddForm extends React.Component {
 
     state = {
-
+        content: ""
     }
 
     handleChange = (e) => {
